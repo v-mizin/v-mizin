@@ -1,2 +1,0 @@
-- 👋 Hi, I’m Valeriy Mizin
-- 📫 Email: mizin.valeriy@gmail.com
